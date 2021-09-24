@@ -293,7 +293,9 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/docker
           - item:
             name: Quay
-            description: Ensure your apps are stored privately, with access that you control. Quay is teamwork optimized, with powerful access controls.
+            description: |+
+              Ensure your apps are stored privately, with access that you control. Quay is teamwork optimized, with powerful access controls.
+
             homepage_url: https://quay.io/
             logo: quay.svg
             crunchbase: https://www.crunchbase.com/organization/quay-io
