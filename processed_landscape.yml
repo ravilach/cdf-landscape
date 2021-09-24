@@ -1182,7 +1182,6 @@ landscape:
             name: Testlio
             homepage_url: https://testlio.com
             logo: testlio-logo-blue.svg
-            twitter: https://twitter.com/testlio
             crunchbase: https://www.crunchbase.com/organization/testlio
             crunchbase_data:
               name: Testlio
@@ -2813,7 +2812,9 @@ landscape:
               latest_tweet_date: 2019-02-12T18:10:37.000Z
           - item:
             name: Quay
-            description: Ensure your apps are stored privately, with access that you control. Quay is teamwork optimized, with powerful access controls.
+            description: |+
+              Ensure your apps are stored privately, with access that you control. Quay is teamwork optimized, with powerful access controls.
+
             homepage_url: https://quay.io/
             logo: quay.svg
             crunchbase: https://www.crunchbase.com/organization/quay-io
@@ -5898,7 +5899,6 @@ landscape:
             name: Testlio (member)
             homepage_url: https://testlio.com
             logo: testlio-logo-blue.svg
-            twitter: https://twitter.com/testlio
             crunchbase: https://www.crunchbase.com/organization/testlio
             crunchbase_data:
               name: Testlio
