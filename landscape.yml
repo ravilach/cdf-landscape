@@ -21,6 +21,7 @@ landscape:
             homepage_url: https://www.armory.io/armory-enterprise-spinnaker/
             logo: armory.svg
             crunchbase: https://www.crunchbase.com/organization/armory
+            description: test
           - item:
             name: CircleCI
             homepage_url: https://circleci.com/
